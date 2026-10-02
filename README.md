@@ -33,9 +33,13 @@ Sri Lanka is compared with selected Asian countries using internationally compar
 - Sri Lanka DCS analysis: 2014–2025
 - International ITU comparison: 2014–2024
 
-## Website
+## Live Website
 
-The full research presentation is contained in `index.html`.
+The research presentation is published on GitHub Pages:
+
+**https://hiru-stack.github.io/digital-development-research/**
+
+The full website source is contained in `index.html`.
 
 All charts used on the website are embedded directly inside the HTML file, so separate image files are not required for GitHub Pages.
 
