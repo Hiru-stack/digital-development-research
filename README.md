@@ -50,16 +50,6 @@ All charts used on the website are embedded directly inside the HTML file, so se
 - In 2024, Sri Lanka ranked relatively strongly in broadband subscriptions among the selected countries but had the lowest Internet-use rate.
 - The study therefore explores a possible **connectivity–capability gap**.
 
-## GitHub Pages
-
-To publish the site:
-
-1. Upload `index.html` and `README.md` to the repository root.
-2. Open **Settings → Pages**.
-3. Select **Deploy from a branch**.
-4. Choose the `main` branch and `/root`.
-5. Save.
-
 ## Author
 
 **Hirusha Jayasundara**
